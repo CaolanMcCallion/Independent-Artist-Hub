@@ -1,0 +1,13 @@
+body {
+  background-color: #111111;
+  color: #ffffff;
+}
+
+img {
+  width: 120px;
+}
+
+.release-card {
+  display: flex;
+  gap: 50px;
+}
