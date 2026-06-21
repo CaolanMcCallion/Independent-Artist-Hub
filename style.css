@@ -10,4 +10,9 @@ img {
 .release-card {
   display: flex;
   gap: 50px;
+  padding: 25px;
+  background-color: #181818;
+  border: 1px solid #333;
+  border-radius: 16px;
+  width: fit-content;
 }
